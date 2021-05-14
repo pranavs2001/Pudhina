@@ -1,7 +1,7 @@
 # Site settings
 title: Pranav Srinivasan
 description: >
-  Computer Engineering @ ucla
+  computer engineering @ ucla
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://pranavs2001.github.io" # the base hostname & protocol for your site

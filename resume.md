@@ -20,14 +20,14 @@ University of California, Los Angeles <span style="float: right; ">June 2023</sp
 
 ### EXPERIENCE
 
-**Tesla** - Software Engineer Intern <span style="float: right; ">Summer 2021</span>
+**Tesla** - Software Engineer Intern <span style="float: right; ">Summer 2021</span>  
  
 **Robotics and Mechanisms Laboratory (RoMeLa)** - Undergraduate Researcher <span style="float: right; ">October 2020 - Present</span>  
 _~ Developing website to interface with an autonomous cooking robot and using Flask to host the website locally on the central Raspberry Pi unit_\
 _~ Implemented serial communication capability between Raspberry Pi and Arduino to monitor sensor data_
 HTML, CSS, Python, Flask
 
-###LEADERSHIP
+### LEADERSHIP
 
 **UCLA IEEE** - External Vice President <span style="float: right; ">April 2021 - Present</span>  
 _~ Organizing the largest hardware hackathon on the west coast, IDEA Hacks (100+ participants)_\

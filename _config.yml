@@ -3,14 +3,14 @@ title: Pudhina
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://pranavs2001.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Pranav Sankar Srinivasan
+  github: https://github.com/pranavs2001
+  linkedin: https://www.linkedin.com/in/pranavsankars/
+  email: pranavsankars@g.ucla.edu
 
 
 # Syntax highlighting

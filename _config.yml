@@ -1,13 +1,13 @@
 # Site settings
-title: Pudhina
+title: Pranav Srinivasan
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  Computer Engineering @ ucla
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://pranavs2001.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pranav Sankar Srinivasan
+  fullname: Pranav Srinivasan
   github: pranavs2001
   linkedin: pranavsankars/
   email: pranavsankars@g.ucla.edu

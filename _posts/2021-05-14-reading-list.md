@@ -6,6 +6,8 @@ date:   2021-05-14 16:30:00 -7000
 categories: ["reading list"]
 ---
 
+Welcome to my blog! I figured that to ease into this new blogging hobby that I hope to maintain, I should start off with a rather light topic and list some books that have really stood out to me. Admittedly, reading is something I don't maintain with proper pace. It's often dictated by the other aspects of my life and how engaging the book itself is. Hopefully, this list is updated regularly.
+
 * Moneyball - Michael Lewis
 * The Kite Runner - Khaled Hosseini
 * The Martian - Andy Weir

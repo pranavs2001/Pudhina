@@ -12,7 +12,7 @@ subtitle: Simi Valley, CA
 University of California, Los Angeles <span style="float: right; ">June 2023</span>  
 **B.S. Computer Engineering, GPA 3.7/4.0**  
 ~ Honors: Fast Track Honors Program, Dean’s Honor List\
-~ Relevant Coursework: Data Structures \& Algorithms, Software Construction, Operating Systems, Computer Architecture, Internet of Things, Digital Logic Design 
+~ Relevant Coursework: Data Structures & Algorithms, Software Construction, Operating Systems, Computer Architecture, Internet of Things, Digital Logic Design 
 
 ### SKILLS
 ``` Languages: JavaScript, C/C++, Python, Swift, HTML, CSS ```\
@@ -36,13 +36,13 @@ _~ Previously Corporate Relations Officer: hosted industry events with prominent
 ### PROJECTS
 **Code Crumbs** - JavaScript, React, Firebase, Postman, Chrome API <span style="float: right; ">April 2021</span>  
 _~ Developed Chrome extension that allows users to track search history in detail to aid the software development process_\
-_~ Implemented sign-in/login functionality using Firebase Authentication and capability to toggle the extension on/off_\
+_~ Implemented sign-in/login functionality using Firebase Authentication and capability to toggle the extension on/off_
 
-**Insta-Chef** - JavaScript, React, Python, Firebase, mealDB API <span style="float: right; ">March 2021</span>  
+**(Insta-Chef)[https://insta-chef-ba8dc.web.app]** - JavaScript, React, Python, Firebase, mealDB API <span style="float: right; ">March 2021</span>  
 _~ Created web application that enables users to discover new culinary recipes by name or ingredient and track all items in kitchen_\
-_~ Constructed React components to display various information and added front-end features to simplify the process of tracking ingredients_\
+_~ Constructed React components to display various information and added front-end features to simplify the process of tracking ingredients_
 
-**DisCovr** - JavaScript, Bootstrap, Spotify API <span style="float: right; ">December 2020</span>  
+**(DisCovr)[https://discovr.netlify.app]** - JavaScript, Bootstrap, Spotify API <span style="float: right; ">December 2020</span>  
 _~ Built a web application that enables Spotify users to find new songs not based on their prior listening history_\
 _~ Devised a song search query algorithm that randomly selects new songs efficiently and produced an intuitive interface for easy navigation of the app_
 

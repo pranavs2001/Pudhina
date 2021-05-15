@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Select ramblings of Pudhina
+subtitle: Select thoughts on topics of interest
 ---
 
 <div>

@@ -38,7 +38,7 @@ _~ Previously Corporate Relations Officer: hosted industry events with prominent
 _~ Developed Chrome extension that allows users to track search history in detail to aid the software development process_\
 _~ Implemented sign-in/login functionality using Firebase Authentication and capability to toggle the extension on/off_
 
-**[Insta-Chef]()https://insta-chef-ba8dc.web.app)** - JavaScript, React, Python, Firebase, mealDB API <span style="float: right; ">March 2021</span>  
+**[Insta-Chef](https://insta-chef-ba8dc.web.app)** - JavaScript, React, Python, Firebase, mealDB API <span style="float: right; ">March 2021</span>  
 _~ Created web application that enables users to discover new culinary recipes by name or ingredient and track all items in kitchen_\
 _~ Constructed React components to display various information and added front-end features to simplify the process of tracking ingredients_
 

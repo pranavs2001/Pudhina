@@ -3,7 +3,7 @@ layout: page
 title:  "Reading List"
 subtitle: "A collection of books I've enjoyed reading, updated as I discover them"
 date:   2021-05-14 16:30:00 -7000
-categories: ["reading list"]
+categories: ["general"]
 ---
 
 * Moneyball - Michael Lewis

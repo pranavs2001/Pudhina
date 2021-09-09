@@ -26,7 +26,7 @@ _~ Migrating an application and establishing a Kafka consumer pipeline to balanc
 _~ Added security enhancements and UI updates to numerous applications in order to strengthen data access control_
 Python, Flask, Swagger, SQL, Kafka
 
-**Robotics and Mechanisms Laboratory (RoMeLa)** - Undergraduate Researcher <span style="float: right; ">October 2020 - Present</span>  
+**Robotics and Mechanisms Laboratory (RoMeLa)** - Undergraduate Researcher <span style="float: right; ">October 2020 - Present</span>\
 _~ Developing website to interface with an autonomous cooking robot and using Flask to host the website locally on the central Raspberry Pi unit_\
 _~ Implemented serial communication capability between Raspberry Pi and Arduino to monitor sensor data_
 HTML, CSS, Python, Flask

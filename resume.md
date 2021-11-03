@@ -15,14 +15,18 @@ University of California, Los Angeles <span style="float: right; ">June 2023</sp
 ~ Relevant Coursework: Data Structures & Algorithms, Software Construction, Operating Systems, Computer Architecture, Internet of Things, Digital Logic Design 
 
 ### SKILLS
-``` Languages: JavaScript, C/C++, Python, Swift, HTML, CSS ```\
-``` Frameworks + Tools: React, Firebase, Bootstrap, Git, Postman, Node Package Manager, UIKit, Cocoapods ```  
+``` Languages: Python, C/C++, JavaScript, SQL, Swift, HTML, CSS ```\
+``` Frameworks + Tools: Flask, Swagger, React, MySQL Workbench, Postman, Firebase, Bootstrap, Git, Node Package Manager, UIKit, Cocoapods ```  
 
 ### EXPERIENCE
 
-**Tesla** - Software Engineer Intern <span style="float: right; ">Summer 2021</span>  
- 
-**Robotics and Mechanisms Laboratory (RoMeLa)** - Undergraduate Researcher <span style="float: right; ">October 2020 - Present</span>  
+**Tesla** - Software Engineer Intern <span style="float: right; ">June 2021 - Present</span>\
+_~ Implemented a RESTful API with auto‐generating documentation that can process 100 requests in 1.5 seconds to reduce application response latency_\
+_~ Migrating an application and establishing a Kafka consumer pipeline to balance the load between messaging systems_\
+_~ Added security enhancements and UI updates to numerous applications in order to strengthen data access control_\
+Python, Flask, Swagger, SQL, Kafka
+
+**Robotics and Mechanisms Laboratory (RoMeLa)** - Undergraduate Researcher <span style="float: right; ">October 2020 - Present</span>\
 _~ Developing website to interface with an autonomous cooking robot and using Flask to host the website locally on the central Raspberry Pi unit_\
 _~ Implemented serial communication capability between Raspberry Pi and Arduino to monitor sensor data_
 HTML, CSS, Python, Flask

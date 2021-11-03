@@ -13,8 +13,8 @@ Welcome to my blog! I figured that to ease into this new blogging hobby that I h
 * The Martian - Andy Weir
 * Behind the Beautiful Forevers - Katherine Boo  
 
-More to come soon 😃  
-
+More to come soon 😃
+  
 Thanks for reading!
 
 

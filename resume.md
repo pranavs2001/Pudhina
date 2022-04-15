@@ -10,15 +10,17 @@ subtitle: Simi Valley, CA
 ### EDUCATION
 
 University of California, Los Angeles <span style="float: right; ">June 2023</span>  
-**B.S. Computer Engineering, GPA 3.7/4.0**  
+**B.S. Computer Engineering, Minor in Entrepreneurship, GPA 3.7/4.0**  
 ~ Honors: Fast Track Honors Program, Dean’s Honor List\
-~ Relevant Coursework: Data Structures & Algorithms, Software Construction, Operating Systems, Computer Architecture, Internet of Things, Digital Logic Design 
+~ Relevant Coursework: Machine Learning, Data Science, Data Structures & Algorithms, Software Construction, Operating Systems, Computer Architecture, Internet of Things, Digital Logic Design 
 
 ### SKILLS
 ``` Languages: Python, C/C++, JavaScript, SQL, Swift, HTML, CSS ```\
 ``` Frameworks + Tools: Flask, Swagger, React, MySQL Workbench, Postman, Firebase, Bootstrap, Git, Node Package Manager, UIKit, Cocoapods ```  
 
 ### EXPERIENCE
+
+**Uber** - Software Engineer Intern <span style="float: right; ">Summer 2022</span>\
 
 **Tesla** - Software Engineer Intern <span style="float: right; ">June 2021 - Present</span>\
 _~ Implemented a RESTful API with auto‐generating documentation that can process 100 requests in 1.5 seconds to reduce application response latency_\

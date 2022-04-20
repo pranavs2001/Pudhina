@@ -20,7 +20,7 @@ University of California, Los Angeles <span style="float: right; ">June 2023</sp
 
 ### EXPERIENCE
 
-**Uber** - Software Engineer Intern <span style="float: right; ">Summer 2022</span>\
+**Uber** - Software Engineer Intern <span style="float: right; ">Summer 2022</span>
 
 **Tesla** - Software Engineer Intern <span style="float: right; ">June 2021 - Present</span>\
 _~ Implemented a RESTful API with auto‐generating documentation that can process 100 requests in 1.5 seconds to reduce application response latency_\

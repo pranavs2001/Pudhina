@@ -22,7 +22,7 @@ University of California, Los Angeles <span style="float: right; ">June 2023</sp
 
 **Uber** - Software Engineer Intern <span style="float: right; ">Summer 2022</span>
 
-**Tesla** - Software Engineer Intern <span style="float: right; ">June 2021 - Present</span>\
+**Tesla** - Software Engineer Intern <span style="float: right; ">June 2021 - September 2021</span>\
 _~ Implemented a RESTful API with auto‐generating documentation that can process 100 requests in 1.5 seconds to reduce application response latency_\
 _~ Migrating an application and establishing a Kafka consumer pipeline to balance the load between messaging systems_\
 _~ Added security enhancements and UI updates to numerous applications in order to strengthen data access control_\

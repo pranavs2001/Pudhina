@@ -2,7 +2,7 @@
 layout: page
 title:  "Bookmarks"
 subtitle: "My favorite websites, updated as I discover them"
-date:   2021-05-14 16:30:00 -7000
+date:   2022-09-19 10:30:00 -7000
 categories: ["reading list"]
 ---
 

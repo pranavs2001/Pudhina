@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Book Shelf"
-subtitle: "A collection of books I've enjoyed reading, updated as I discover them"
+title:  "Bookmarks"
+subtitle: "My favorite websites, updated as I discover them"
 date:   2021-05-14 16:30:00 -7000
 categories: ["reading list"]
 ---

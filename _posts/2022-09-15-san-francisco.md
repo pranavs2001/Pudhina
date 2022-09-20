@@ -14,7 +14,7 @@ A surprisingly small portion of SF is commercial. I'm not sure if my surprise is
 
 For reasons I haven't been able to deduce, businesses in SF either close down early or open quite late. As someone used to establishments staying open until 10pm as the default (the norm in LA), I was not expecting to see restaurants closing at 8pm/opening at 5pm and supermarkets like Target closing at 6pm. Needless to say as someone who often eats dinner at around 8pm, I was caught off guard by the reduction in options I had for places to eat at.
 
-![Picture of Oracle Park, it's right on the bay](../assets/img/san-francisco/oracle-park-1.jpg) ![View from Oracle Park](../assets/img/san-francisco/oracle-park-2.jpg)
+![Picture of Oracle Park, it's right on the bay](../assets/img/oracle-park-1.jpg) ![View from Oracle Park](../assets/img/san-francisco/oracle-park-2.jpg)
 
 Oracle Park is stunning and if you're ever in SF, I highly recommend you go to a Giants game. It doesn't matter if you don't like the Giants or baseball at all (I don't consider myself a baseball fan). The view from the stadium is worth the price of admission itself. Besides, baseball tickets are surprisingly inexpensive so why not grab some garlic fries (what Oracle Park is famous for), sit back, and enjoy a beautiful view of the bay.
 

@@ -15,8 +15,8 @@ University of California, Los Angeles <span style="float: right; ">June 2023</sp
 ~ Relevant Coursework: Machine Learning, Advanced Algorithms, Data Management Systems, Operating Systems 
 
 ### SKILLS
-``` Languages: Python, C/C++, JavaScript, SQL, Swift, HTML, CSS ```\
-``` Frameworks + Tools: Flask, Swagger, React, MySQL Workbench, Postman, Firebase, Bootstrap, Git, Node Package Manager, UIKit, Cocoapods ```  
+``` Languages: Python, C/C++, Golang, JavaScript, SQL, Swift, HTML, CSS ```\
+``` Frameworks + Tools: Cadence Workflow, React, Redux, Flask, Swagger, Bootstrap, UIKit, Git, MySQL Workbench, Postman, Firebase, VS Code, Node Package Manager, Cocoapods ```  
 
 ### EXPERIENCE
 

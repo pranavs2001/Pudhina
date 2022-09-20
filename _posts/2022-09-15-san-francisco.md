@@ -14,7 +14,7 @@ A surprisingly small portion of SF is commercial. I'm not sure if my surprise is
 
 For reasons I haven't been able to deduce, businesses in SF either close down early or open quite late. As someone used to establishments staying open until 10pm as the default (the norm in LA), I was not expecting to see restaurants closing at 8pm/opening at 5pm and supermarkets like Target closing at 6pm. Needless to say as someone who often eats dinner at around 8pm, I was caught off guard by the reduction in options I had for places to eat at.
 
-![Picture of Oracle Park, it's right on the bay](san-francisco/oracle-park-1.jpg) ![View from Oracle Park](san-francisco/oracle-park-2.jpg)
+![](../assets/img/san-francisco/oracle-park-1.jpg) ![View from Oracle Park](../assets/img/san-francisco/oracle-park-2.jpg)
 
 Oracle Park is stunning and if you're ever in SF, I highly recommend you go to a Giants game. It doesn't matter if you don't like the Giants or baseball at all (I don't consider myself a baseball fan). The view from the stadium is worth the price of admission itself. Besides, baseball tickets are surprisingly inexpensive so why not grab some garlic fries (what Oracle Park is famous for), sit back, and enjoy a beautiful view of the bay.
 
@@ -22,15 +22,15 @@ Summer doesn't really exist in SF. While the rest of the country dealt with heat
 
 SF is a beautiful city with character and great people. Within 12 weeks, SF has carved a special place in my heart. The next time I'm in SF, it may very well be with the intention of being a permanent resident.
 
-![View of the bay from Uber office](san-francisco/uber-1.jpg) ![View of the city from Uber office](san-francisco/uber-2.jpg) ![Uber offices](san-francisco/uber-3.jpg)
+![View of the bay from Uber office](../assets/img/san-francisco/uber-1.jpg) ![View of the city from Uber office](../assets/img/san-francisco/uber-2.jpg) ![Uber offices](../assets/img/san-francisco/uber-3.jpg)
 
-![New Belgium Brewing Company](san-francisco/new-belgium.jpg) ![Oracle Park at night](san-francisco/oracle-park-3.jpg) ![Picture of Oracle Park, it's right on the bay](san-francisco/ferry-building.jpg)
+![New Belgium Brewing Company](../assets/img/san-francisco/new-belgium.jpg) ![Oracle Park at night](../assets/img/san-francisco/oracle-park-3.jpg) ![Picture of Oracle Park, it's right on the bay](../assets/img/san-francisco/ferry-building.jpg)
 
-![View of Bay Bridge from Financial District](san-francisco/coit-1.jpg) ![View of Financial District from Coit Tower](san-francisco/coit-2.jpg) ![View of SF from Coit Tower](san-francisco/coit-3.jpg)
+![View of Bay Bridge from Financial District](../assets/img/san-francisco/coit-1.jpg) ![View of Financial District from Coit Tower](../assets/img/san-francisco/coit-2.jpg) ![View of SF from Coit Tower](../assets/img/san-francisco/coit-3.jpg)
 
-![](../assets/img/san-francisco/hike-1.jpg) ![](san-francisco/hike-2.jpg) ![Picture of Oracle Park, it's right on the bay](san-francisco/road.jpg)
+![](../assets/img/san-francisco/hike-1.jpg) ![](../assets/img/san-francisco/hike-2.jpg) ![Picture of Oracle Park, it's right on the bay](../assets/img/san-francisco/road.jpg)
 
-![](san-francisco/marin-1.jpg) ![](san-francisco/marin-2.jpg) ![Picture of Oracle Park, it's right on the bay](san-francisco/slice-house.jpg)
+![](../assets/img/san-francisco/marin-1.jpg) ![](../assets/img/san-francisco/marin-2.jpg) ![Picture of Oracle Park, it's right on the bay](../assets/img/san-francisco/slice-house.jpg)
 
 San Francisco in emojis: 🌉 🧑‍💻 ⛴️
   

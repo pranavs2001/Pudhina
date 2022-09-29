@@ -6,7 +6,7 @@ date:   2022-09-19 10:30:00 -7000
 categories: ["reading list"]
 ---
 
-I read semi-regularly but my main source of reading content unsurprisingly (I am Gen Z) comes from the internet. I've grown to dislike watching the news on television for two reasons: it's a highly inefficient means to get news updates with all the ads sandwiched in and it heavily leans towards doom and gloom stories. I have also limited reading articles from national news sources for the second reason listed earlier. Every now and then I persue through headlines to just keep myself up to date with current events though. My current list of frequented websites is below.
+I read semi-regularly but my main source of reading content unsurprisingly (I am Gen Z) comes from the internet. I've grown to dislike watching the news on television for two reasons: it's a highly inefficient means to get news updates with all the ads sandwiched in and it heavily leans towards doom and gloom stories. I have also limited reading articles from national news sources for the second reason. Every now and then I persue through headlines to just keep myself up to date with current events though. My current list of frequented websites is below.
 
 * [Hacker News](https://news.ycombinator.com/)
 * [Stratechery](https://stratechery.com)

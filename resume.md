@@ -40,7 +40,7 @@ HTML, CSS, Python, Flask
 
 ### LEADERSHIP
 
-**UCLA IEEE** - External Vice President <span style="float: right; ">April 2021 - April 20222</span>  
+**UCLA IEEE** - External Vice President <span style="float: right; ">April 2021 - April 2022</span>  
 _~ Organizing the largest hardware hackathon on the west coast, IDEA Hacks (100+ participants)_\
 _~ Previously Corporate Relations Officer: hosted industry events with prominent partners for 300 members and fundraised \$7000 for IDEA Hacks_
 
